@@ -14,7 +14,8 @@ export const GlobalStyles = createGlobalStyle`
   
   body{
     margin: 0;
-    font-family: sans-serif;
+    font-family: "Hanken Grotesk";
+    background-color: #ECF2FF;
   }
 
   a{
